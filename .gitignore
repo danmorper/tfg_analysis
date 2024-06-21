@@ -1,0 +1,54 @@
+# Ignorar archivos de configuración de entorno de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar archivos y directorios de entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+pyvenv.cfg
+
+# Ignorar archivos específicos de macOS
+.DS_Store
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos de instalación y binarios
+bin/
+lib/
+include/
+share/
+
+# Ignorar archivos PDF
+*.pdf
+
+# Ignorar configuraciones de editores
+.idea/
+.vscode/
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Ignorar archivos de compilación
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+
+# Ignorar archivos de distribución de Python
+dist/
+build/
+*.egg-info/
+
+# Ignorar archivos generados por herramientas de documentación
+docs/_build/
