@@ -3670,3 +3670,651 @@
         "model": "llama3"
     }
 },
+{
+    "pdf": "BOE-B-2017-31925.pdf",
+    "company_name": {
+        "Moncobra S.A": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 27/03/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 27/04/2017.\nc) Contratista: Moncobra, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 355.371,90 euros. Importe\ntotal: 430.000 euros.\ne) Ventajas de la oferta adjudicataria: Oferta econ\u00f3micamente m\u00e1s ventajosa de\nconformidad  con  los  criterios  de  valoraci\u00f3n  del  Pliego  de  Cl\u00e1usulas\nAdministrativas  Particulares.\nZaragoza, 11 de mayo de 2017.- El Secretario General T\u00e9cnico, Juan Mart\u00edn\nExp\u00f3sito.\n ID: A170035622-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "430000.0": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 355.371,90 euros. Importe total:\n430.000 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Departamento de Vertebraci\u00f3n del Territorio Movilidad y Vivienda": "1. Entidad adjudicadora:\na) Organismo: Departamento de Vertebraci\u00f3n del Territorio, Movilidad y\nVivienda.\nb) Dependencia que tramita el expediente: Secretar\u00eda General T\u00e9cnica.\nd)  Direcci\u00f3n  de  Internet  del  perfil  del  contratante:  www.aragon.es/\nContratacionPublica."
+    },
+    "tipo": {
+        "Servicios": "2. Objeto del contrato:\na) Tipo: Servicios.\nb) Descripci\u00f3n: Conservaci\u00f3n de edificios y viviendas propiedad del Gobierno de\nArag\u00f3n.\nc) Lote: Lote I: provincias de Zaragoza y Huesca.\nd) CPV (Referencia de Nomenclatura): 45262520-2.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 14/12/"
+    },
+    "tramitacion": {
+        "Anticipada": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Anticipada.\nb) Procedimiento: Abierto, varios criterios de adjudicaci\u00f3n, sujetos a regulaci\u00f3n\narmonizada.\n4. Valor estimado del contrato: 710.743,80 euros."
+    },
+    "procedimiento": {
+        "Abierto varios criterios de adjudicaci\u00f3n sujetos a regulaci\u00f3n armonizada": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-29394.pdf",
+    "company_name": {
+        "Aeronaval de Cnstrucciones e Intalaciones S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 01/03/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 28/03/2017.\nc) Contratista: Aeronaval de Cnstrucciones e Intalaciones, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 393.796,80 euros.\nVitoria-Gasteiz, 10 de mayo de 2017.- Jon I\u00f1aki Urbina Garc\u00eda de Vicu\u00f1a,\nDirector de R\u00e9gimen Jur\u00eddico y Servicios.\n ID: A170034982-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "598000.0": "16.\n2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro e instalaci\u00f3n de ordenadores de sobremesa en\ncentros educativos p\u00fablicos dependientes del Departamento de Educaci\u00f3n.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Boe.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 5/9/2016.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 598.000,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Eusko Jaurlaritza. Departamento de Educaci\u00f3n": "1. Entidad adjudicadora:\na) Organismo: Eusko Jaurlaritza. Departamento de Educaci\u00f3n.\nb) Dependencia que tramita el expediente: Direcci\u00f3n de R\u00e9gimen Jur\u00eddico y\nServicios.\nc) N\u00famero de expediente: SU/09/"
+    },
+    "tipo": {
+        "Suministro": "16.\n2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro e instalaci\u00f3n de ordenadores de sobremesa en\ncentros educativos p\u00fablicos dependientes del Departamento de Educaci\u00f3n.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Boe.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 5/9/2016.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 598.000,00 euros."
+    },
+    "tramitacion": {
+        "null": null
+    },
+    "procedimiento": {
+        "null": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-26962.pdf",
+    "company_name": {
+        "Asistencia organizaci\u00f3n y servicios S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 24/02/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 21/04/2017.\nc) Contratista: Asistencia, organizaci\u00f3n y servicios, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 323.000,00 euros. Importe\ntotal: 390.830,00 euros.\nLas Rozas de Madrid, 27 de abril de 2017.- Concejal-Delegado de Hacienda y\nRecursos Humanos.\n ID: A170031339-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "401876.36": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 332129,22 euros. Importe total:\n401876,36 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ayuntamiento de Las Rozas de Madrid": "1. Entidad adjudicadora:\na) Organismo: Ayuntamiento de Las Rozas de Madrid."
+    },
+    "tipo": {
+        "Servicios": "2. Objeto del contrato:\na) Tipo: Servicios.\nb) Descripci\u00f3n: Intervenci\u00f3n socioeducativa dirigida a menores y sus familias en\nsituaci\u00f3n de dificultad social.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 29/10/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-31683.pdf",
+    "company_name": {
+        "Serveis d'\u00c0pats S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 5/04/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 8/05/2017.\nc) Contratista: Serveis d'\u00c0pats, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: Men\u00fas servidos a los alumnos\nde educaci\u00f3n infantil y primaria, con servicio de monitoraje: 5,91 \u20ac / Men\u00fas\nservidos a los alumnos de necesidades educativas especiales (NEE) con\nservicio de monitoraje: 9,62 \u20ac /Men\u00fas servidos al personal docente, personal\nde administraci\u00f3n y servicios del centro educativo, sin servicio de monitoraje:\n2,82 \u20ac. Importe total: Men\u00fas servidos a los alumnos de educaci\u00f3n infantil y\nprimaria, con servicio de monitoraje: 6,19 \u20ac / Men\u00fas servidos a los alumnosBOLET\u00cdN OFICIAL DEL ESTADO\nN\u00fam. 122 Martes 23 de mayo de 2017 Sec. V-A.  P\u00e1g. 38051\ncve: BOE-B-2017-31683\nde necesidades educativas especiales (NEE) con servicio de monitoraje:\n9,90\u20ac / Men\u00fas servidos al personal docente, personal de administraci\u00f3n y\nservicios del centro educativo, sin servicio de monitoraje : 3,10 \u20ac.\ne) Ventajas de la oferta adjudicataria: Segunda oferta econ\u00f3micamente m\u00e1s\nventajosa al haberse retirado el licitador clasificado en primer lugar.\nValls, 9 de mayo de 2017.- El Presidente.\n ID: A170038779-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "2019612000.0": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto con diversos criterios de adjudicaci\u00f3n.\n4. Valor estimado del contrato: 2.019.612.00.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: Men\u00fas servidos a los alumnos de\neducaci\u00f3n infantil y primaria, con servicio de monitoraje: 5,92 \u20ac / Men\u00fas servidos\na los alumnos de necesidades educativas especiales (NEE) con servicio de\nmonitoraje:  9,62  \u20ac  /Men\u00fas  servidos  al  personal  docente,  personal  de\nadministraci\u00f3n y servicios del centro educativo, sin servicio de monitoraje: 2,82\u20ac.\nImporte total: Men\u00fas servidos a los alumnos de educaci\u00f3n infantil y primaria, con\nservicio de monitoraje: 6,20 \u20ac / Men\u00fas servidos a los alumnos de necesidades\neducativas especiales (NEE) con servicio de monitoraje: 9,90 \u20ac /Men\u00fas servidos\nal personal docente, personal de administraci\u00f3n y servicios del centro educativo,\nsin servicio de monitoraje: 3,10 \u20ac."
+    },
+    "currency": {
+        "Euros": ""
+    },
+    "adjudicadora": {
+        "Consell Comarcal del Alt Camp": "1. Entidad adjudicadora:\na) Organismo: Consell Comarcal del Alt Camp.\nb) Dependencia que tramita el expediente: Secretaria.\nc) N\u00famero de expediente: CE 2015/012.\nd) Direcci\u00f3n de Internet del perfil del contratante: https://seu-e.cat/web/\nccaltcamp."
+    },
+    "tipo": {
+        "Contrato de Servicios": "2. Objeto del contrato:\na) Tipo: Servicio.\nb) Descripci\u00f3n: Prestaci\u00f3n del servicio escolar de comedor en diferentes centros\np\u00fablicos de educaci\u00f3n infantil y primaria de la comarca del Alt Camp, en la\nmodalidad de cocina en el centro o catering.\nd) CPV (Referencia de Nomenclatura): 55523100-3 y 55524000-9.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 19/12/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto con diversos criterios de adjudicaci\u00f3n.\n4. Valor estimado del contrato: 2.019.612.00.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: Men\u00fas servidos a los alumnos de\neducaci\u00f3n infantil y primaria, con servicio de monitoraje: 5,92 \u20ac / Men\u00fas servidos\na los alumnos de necesidades educativas especiales (NEE) con servicio de\nmonitoraje:  9,62  \u20ac  /Men\u00fas  servidos  al  personal  docente,  personal  de\nadministraci\u00f3n y servicios del centro educativo, sin servicio de monitoraje: 2,82\u20ac.\nImporte total: Men\u00fas servidos a los alumnos de educaci\u00f3n infantil y primaria, con\nservicio de monitoraje: 6,20 \u20ac / Men\u00fas servidos a los alumnos de necesidades\neducativas especiales (NEE) con servicio de monitoraje: 9,90 \u20ac /Men\u00fas servidos\nal personal docente, personal de administraci\u00f3n y servicios del centro educativo,\nsin servicio de monitoraje: 3,10 \u20ac."
+    },
+    "procedimiento": {
+        "Abierto con diversos criterios de adjudicaci\u00f3n": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-32739.pdf",
+    "company_name": {
+        "null": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 04/04/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 08/05/2017.\nc) Contratista: Don Hierro, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 600.000 euros. Importe total:\n726.000 euros.\ne) Ventajas de la oferta adjudicataria: -Desarrollar\u00e1 todo el proceso de\nfabricaci\u00f3n, incluida la pintura y vinilaci\u00f3n, en un mismo centro industrial\npropio, sin recurrir a la subcontrataci\u00f3n. -Es una empresa certificada ISO\n9001:2001 en cuanto a control de calidad, y ISO 14001:1996 en cuanto a\ngesti\u00f3n ambiental. - Ofrece un precio unitario de un m\u00f3dulo M14 un 23% m\u00e1s\nbajo que el segundo licitador. - Ofrece un precio unitario de un m\u00f3dulo M7 un\n6% m\u00e1s bajo que el segundo licitador.\nBarcelona, 22 de mayo de 2017.- El Secretario General accidental, Sebasti\u00e0\nGrau \u00c1vila.\n ID: A170040194-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "726000.0": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 600.000 euros. Importe total:\n726.000 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "null": "1. Entidad adjudicadora:\na) Organismo: \u00c1rea Metropolitana de Barcelona.\nb) Dependencia que tramita el expediente: Contrataci\u00f3n.\nc) N\u00famero de expediente: 2158/16.\nd) Direcci\u00f3n de Internet del perfil del contratante: http://www.amb.cat/web/amb/\nseu-electronica/perfil-contractant."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Construcci\u00f3n y suministro de m\u00f3dulos de aparcamiento seguro\nde bicicletas para el servicio Bicibox.\nd) CPV (Referencia de Nomenclatura): 34928400-2, 45223100-7.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOP, BOE, DOUE, Perfil de\nContatante.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 12/12/2016 07/12/2016 29/11/\n2016 25/11/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 600.000"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-32688.pdf",
+    "company_name": {
+        "null": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: Lote 1 Prensa (impresa y digital): 31 de marzo de\n2017; Lote 2 Radio y televisi\u00f3n: 31 de marzo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: Lote 1 Prensa (impresa y digital): 4 de\nmayo de 2017; Lote 2 Radio y televisi\u00f3n: 4 de mayo de 2017.\nc) Contratista: Lote 1 Prensa (impresa y digital): M & C SAATCHI MADRID, S.L.;\nLote 2 Radio y televisi\u00f3n: M & C SAATCHI MADRID, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: Lote 1 Prensa (impresa y\ndigital): 1.652.892,56 euros; Lote 2 Radio y televisi\u00f3n: 1.652.892,56 euros.\nImporte total: Lote 1 Prensa (impresa y digital): 2.000.000,00 euros; Lote 2\nRadio y televisi\u00f3n: 2.000.000,00 euros.\nSevilla, 12 de mayo de 2017.- La Secretaria General T\u00e9cnica.\n ID: A170035923-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "4000000.0": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 3.305.785,12 euros. Importe total:\n4.000.000,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Consejer\u00eda de la Presidencia y Administraci\u00f3n Local": "1. Entidad adjudicadora:\na) Organismo: Consejer\u00eda de la Presidencia y Administraci\u00f3n Local.\nb) Dependencia que tramita el expediente: Secretar\u00eda General T\u00e9cnica.\nc) N\u00famero de expediente: 43/"
+    },
+    "tipo": {
+        "Servicio": "2016.\n2. Objeto del contrato:\na) Tipo: Servicio.\nb) Descripci\u00f3n: Planificaci\u00f3n y compra de espacios publicitarios en prensa, radio\ny televisi\u00f3n, as\u00ed como ejecuci\u00f3n de los planes de medios para las acciones de\ncomunicaci\u00f3n de la Consejer\u00eda de la Presidencia y Administraci\u00f3n Local de la\nJunta de Andaluc\u00eda.\nc) Lote: S\u00ed. Dos.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 2/01/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-37825.pdf",
+    "company_name": {
+        "Becsa S.A.U.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 10/05/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 06/06/2017.\nc) Contratista: Becsa, S.A.U.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 378.138,34 euros. Importe\ntotal: 404.608,02 euros.\ne) Ventajas de la oferta adjudicataria: Oferta econ\u00f3micamente m\u00e1s ventajosa.\nMadrid, 8 de junio de 2017.- El Subdirector General para la Protecci\u00f3n de la\nCosta, \u00c1ngel Mu\u00f1oz Cubillo.\n ID: A170045339-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "554924.17": "17.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 518.620,72 euros. Importe total:\n554.924,17 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ministerio de Agricultura y Pesca Alimentaci\u00f3n y Medio": "1. Entidad adjudicadora:\na) Organismo: Ministerio de Agricultura y Pesca, Alimentaci\u00f3n y Medio\nAmbiente.\nb) Dependencia que tramita el expediente: Direcci\u00f3n General de Sostenibilidad\nde la Costa y del Mar.\nc) N\u00famero de expediente: 35-0438.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.contrataciondelestado.es."
+    },
+    "tipo": {
+        "Obras": "2. Objeto del contrato:\na) Tipo: Obras.\nb) Descripci\u00f3n: Rehabilitaci\u00f3n de la playa de Costa Alegre; t\u00e9rmino municipal de\nMog\u00e1n.\nd) CPV (Referencia de Nomenclatura): 45220000.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 30/11/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 554.924,"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-34776.pdf",
+    "company_name": {
+        "Amgen S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 31 de marzo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 4 de mayo de 2017.\nc) Contratista: Amgen, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 63.528,96 euros.\nPuerto del Rosario, 17 de mayo de 2017.- Gerente de Servicio Sanitario de\nFuerteventura, Jes\u00fas Fl\u00f3rez Magad\u00e1n.\n ID: A170037732-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "128544.0": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 128.544,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Servicio Canario de Salud": "1. Entidad adjudicadora:\na) Organismo: Servicio Canario de Salud.\nb) Dependencia que tramita el expediente: Gerencia de Servicios Sanirarios del\n\u00c1rea de Salud de Fuerteventura.\nc) N\u00famero de expediente: 53/F/17/SU/GE/A/0052.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.gobiernodecanarias.org/\nperfildelcontratante/."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro farmac\u00e9utico del principio activo Carfilzomib.\nc) Lote: No.\nd) CPV (Referencia de Nomenclatura): 33690000-3.\ne) Acuerdo marco: S\u00ed.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 14/02/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 128.544,00 euros."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-38212.pdf",
+    "company_name": {
+        "Gesti\u00f3n Tributaria Territorial S.A.U.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 14/03/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 10/04/2017.\nc) Contratista: Gesti\u00f3n Tributaria Territorial, S.A.U.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 11.903.332,48 euros. Importe\ntotal: 14.403.032,31 euros.\ne) Ventajas de la oferta adjudicataria: Oferta econ\u00f3micamente m\u00e1s ventajosa.\nZaragoza, 18 de abril de 2017.- El Presidente.\n ID: A170046519-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "19030332.28": "98.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 15.727.547,32 euros. Importe total:\n19.030.332,28 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Diputaci\u00f3n Provincial de Zaragoza": "1. Entidad adjudicadora:\na) Organismo: Diputaci\u00f3n Provincial de Zaragoza.\nb) Dependencia que tramita el expediente: Contrataci\u00f3n y Compras.\nc) N\u00famero de expediente: 48/16.\nd) Direcci\u00f3n de Internet del perfil del contratante: http://www.dpz.es/ciudadano/\nperfil-de-contratante."
+    },
+    "tipo": {
+        "Contrato de Servicios": "2. Objeto del contrato:\na) Tipo: Servicios.\nb) Descripci\u00f3n: Prestaci\u00f3n de servicios complementarios al funcionamiento de\nlos \u00f3rganos propios de gesti\u00f3n, inspecci\u00f3n y recaudaci\u00f3n, tanto tributarias\ncomo de otros ingresos de derecho p\u00fablico, as\u00ed como del servicio de gesti\u00f3n\ny atenci\u00f3n tributaria.\nd) CPV (Referencia de Nomenclatura): 75100000\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 13/10/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 23.591.320,"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-33604.pdf",
+    "company_name": {
+        "Accord Healthcare SLU Fresenius Kabi S.A.U.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 21 de febrero de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 15 de marzo de 2017.\nc) Contratista: Accord Healthcare SLU, Fresenius Kabi, S.A.U.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 121.365,75 euros.\nBarcelona, 29 de mayo de 2017.- La Directora gerente.\n ID: A170041756-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "4514936.7": "2. Objeto del contrato:\na) Tipo: Suministros.\nb) Descripci\u00f3n: Suministro de medicamentos.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE n.\u00ba 316.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 31/12/2016.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 4.514.936,70 euros."
+    },
+    "currency": {
+        "EUR": ""
+    },
+    "adjudicadora": {
+        "Institut Catal\u00e0 de la Salut": "1. Entidad adjudicadora:\na) Organismo: Institut Catal\u00e0 de la Salut.\nc) N\u00famero de expediente: CS/CC00/1100623335/17/AMUP."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministros.\nb) Descripci\u00f3n: Suministro de medicamentos.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE n.\u00ba 316.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 31/12/2016.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 4.514.936,70 euros."
+    },
+    "tramitacion": {
+        "null": null
+    },
+    "procedimiento": {
+        "null": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-38757.pdf",
+    "company_name": {
+        "Tecnicas Cientificas para Laboratorio S.A. (Lote 1) / Roche Diagnostics S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 12 de mayo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 6 de junio de 2017.\nc) Contratista: Tecnicas Cientificas para Laboratorio, S.A. (Lote 1) / Roche\nDiagnostics, S.L. (Lote 2).\nd) Importe o canon de adjudicaci\u00f3n: Importe total: Tecnicas Cientificas para\nLaboratorio, S.A. (Lote 1: 10.497,00 euros sin IVA) / Roche Diagnostics, S.L.\n(Lote 2: 138.600,00 euros sin Iva).\nL'Hospitalet de Llobregat, 19 de junio de 2017.- Carlos Constante i Beitia,\nDirector General del Consorci Sanitari Integral.\n ID: A170047983-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "256197.0": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 256.197,00 euros, sin IVA.."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Consorci Sanitari Integral": "1. Entidad adjudicadora:\na) Organismo: Consorci Sanitari Integral.\nc) N\u00famero de expediente: CSIFUOL1614.\nd)  Direcci\u00f3n  de  Internet  del  perfil  del  contratante:  http://\ncontractaci\u00f3publica.gencat.cat."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro de las tiras de orina y de control TAO para los\ncentros del Consorci Sanitari Integral.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE n\u00fam. 312.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 27/12/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 256.197,00 euros, sin IVA.."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-33619.pdf",
+    "company_name": {
+        "null": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 24 de febrero de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 3 de abril de 2017.\nc) Contratista: 3m Espa\u00f1a, S.L., Actinio Y Lantano, S.L., B. Braun Medical, S.A.,\nBarna Import M\u00e9dica, S.A., Bsn Medical, S.L.U., Coloplast Productos\nM\u00e9dicos, S.A., Convatec, S.L., Farmaban, S.A., Izasa Hospital, S.L.U.,\nLaboratorios Ern. S.A., Laboratorios Hartmann, S.A., Laboratorios Urgo,\nS.L.U., Medtronic Ib\u00e9rica, S.A.U., M\u00f6lnlycke Health Care, S.L., Prim, S.A.,\nSmith & Nephew, S.A.U.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: Indeterminado. Acuerdo\nMarco que fija los precios maximos para un consumo estimado.\nValencia, 23 de mayo de 2017.- D.G. Recursos Humanos y Econ\u00f3micos, Justo\nHerrera G\u00f3mez.\n ID: A170039675-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "13825333.28": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria regulaci\u00f3n armonizada.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 13.825.333,28 euros anuales."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Generalitat Valenciana": "1. Entidad adjudicadora:\na) Organismo: Generalitat Valenciana.\nb) Dependencia que tramita el expediente: Direccion General de Recursos\nHumanos y Econ\u00f3micos.\nc) N\u00famero de expediente: 103/2016.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.contratacion.gva.es."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Acuerdo Marco para el suministro de ap\u00f3sitos de fijaci\u00f3n,\nabsorci\u00f3n, protecci\u00f3n, prevenci\u00f3n y material para el tratamiento de heridas y\ncuidado de la piel.\nd) CPV (Referencia de Nomenclatura): 33141110-4, 33141111-1, 33141113-4,\n33631200-4, 33631600-8, 33711540-4, 33711500-2.\ne) Acuerdo marco: S\u00ed.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Boletin Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 16/07/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria regulaci\u00f3n armonizada.\nb) Procedimiento: Abierto.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 13.825.333,28 euros anuales."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-38817.pdf",
+    "company_name": {
+        "null": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 30 de marzo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 4 de mayo de 2017.\nc) Contratista: \"Gas Natural Servicios SDG, S.A.\", con CIF n.\u00ba A-08431090.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 94.316,03 euros. Importe\ntotal: 114.122,40 euros.\nTocina, 19 de junio de 2017.- El Alcalde-Presidente.\n ID: A170048307-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "133642.51": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 110.448,36 euros. Importe total:\n133.642,51 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ayuntamiento de Tocina": "1. Entidad adjudicadora:\na) Organismo: Ayuntamiento de Tocina.\nb) Dependencia que tramita el expediente: Secretar\u00eda General.\nc) N\u00famero de expediente: PCA/10/2016.\nd) Direcci\u00f3n de Internet del perfil del contratante: http://sedetocina.dipusevilla.es."
+    },
+    "tipo": {
+        "Contrato administrativo de suministros": "2. Objeto del contrato:\na) Tipo: Contrato administrativo de suministros.\nb) Descripci\u00f3n: Suministro de energ\u00eda el\u00e9ctrica a edificios, organismos e\ninstalaciones dependientes del Ayuntamiento de Tocina.\nd) CPV (Referencia de Nomenclatura): 71314100\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: DOUE (17 de noviembre de\n2016) y BOE (7 de diciembre de 2016).\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 7 de diciembbre de"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 358.558,78 euros, m\u00e1s IVA por importe de\n75.297,34 euros."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-38721.pdf",
+    "company_name": {
+        "Ortiz Construcciones y Proyectos S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 6 de junio de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 13 de junio de 2017.\nc) Contratista: Ortiz Construcciones y Proyectos S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 185320,93 euros.\nMadrid, 14 de junio de 2017.- El Letrado Mayor del Senado, Manuel Cavero\nG\u00f3mez.\n ID: A170046848-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "251863.17": "2. Objeto del contrato:\na) Tipo: Obras.\nb) Descripci\u00f3n: Obras de la nueva oficina de Correos y techo de los espacios\naleda\u00f1os a los ascensores situados en el patio de la planta baja del edificio\nAmpliaci\u00f3n del Senado.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: \u00abBolet\u00edn Oficial del Estado\u00bb.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 21/02/2017.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 251863,17 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Senado": "1. Entidad adjudicadora:\na) Organismo: Senado."
+    },
+    "tipo": {
+        "Obras": "2. Objeto del contrato:\na) Tipo: Obras.\nb) Descripci\u00f3n: Obras de la nueva oficina de Correos y techo de los espacios\naleda\u00f1os a los ascensores situados en el patio de la planta baja del edificio\nAmpliaci\u00f3n del Senado.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: \u00abBolet\u00edn Oficial del Estado\u00bb.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 21/02/2017.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 251863,17 euros."
+    },
+    "tramitacion": {
+        "null": null
+    },
+    "procedimiento": {
+        "null": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-38917.pdf",
+    "company_name": {
+        "Arquisocial S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 16/03/2.017.\nb) Fecha de formalizaci\u00f3n del contrato: 27704/2.017.\nc) Contratista: Arquisocial, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 12,48 euros/hora. Importe\ntotal: 12,98 euros/hora.\ne) Ventajas de la oferta adjudicataria: Precio, proyecto y mejoras.\nSanl\u00facar de Barrameda, 20 de junio de 2.01.- El Oficial Mayor en funciones de\nSecretario General.\n ID: A170048434-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "4000000.0": "46.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 3.846.153,85 euros. Importe total:\n4.000.000,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ayuntamiento de Sanl\u00facar de Barrameda (C\u00e1diz)": "1. Entidad adjudicadora:\na) Organismo: Ayuntamiento de Sanl\u00facar de Barrameda (C\u00e1diz).\nb) Dependencia que tramita el expediente: Unidad de Contrataci\u00f3n.\nc) N\u00famero de expediente: 56/2.016.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.sanlucardebarrameda.es."
+    },
+    "tipo": {
+        "Servicio": "2. Objeto del contrato:\na) Tipo: Servicio.\nb) Descripci\u00f3n: Ayuda a Domicilio y del Sistema para la Autonom\u00eda y Atenci\u00f3n a\nla Dependencia en el t\u00e9rmino municipal.\nd) CPV (Referencia de Nomenclatura): 85320000-8.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Diario Oficial de la Uni\u00f3n\nEuropea y Bolet\u00edn Oficial del Estado...\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 03/12/2.016 30/12/2."
+    },
+    "tramitacion": {
+        "Ordinaria": "016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 8.461.538,"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-42445.pdf",
+    "company_name": {
+        "Mapfre Espa\u00f1a Compa\u00f1\u00eda de Seguros y Reaseguros S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 05/06/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 29/06/2017.\nc) Contratista: Mapfre Espa\u00f1a Com\u00e0\u00f1\u00eda de Seguros y Reaseguros S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 85.154,00 euros. Importe\ntotal: 85.154,00 euros.\ne) Ventajas de la oferta adjudicataria: Mejoras en las coberturas de las p\u00f3lizas.\nBin\u00e9far, 4 de julio de 2017.- El Alcalde en funciones, Daniel Is\u00e1bal Rami.\n ID: A170052814-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "101082.41": "06.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 101.082,41 euros. Importe total:\n101.082,41 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ayuntamiento de Bin\u00e9far": "1. Entidad adjudicadora:\na) Organismo: Ayuntamiento de Bin\u00e9far.\nb) Dependencia que tramita el expediente: Secretar\u00eda General.\nc) N\u00famero de expediente: 264/2017.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.binefar.es."
+    },
+    "tipo": {
+        "Privado": "2. Objeto del contrato:\na) Tipo: Privado.\nb) Descripci\u00f3n: Seguros privados: responsabilidad civil, bienes y veh\u00edculos.\nc) Lote: No.\nd) CPV (Referencia de Nomenclatura): 66516100-1; 66516400-4; 6651500-3.\ne) Acuerdo marco: No.\nf) Sistema din\u00e1mico de adquisiciones: No.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Diario Oficial de la UE - BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 21/03/2017 28/03/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto, varios criterios de adjudicaci\u00f3n.\n4. Valor estimado del contrato: 212.273,"
+    },
+    "procedimiento": {
+        "Abierto varios criterios de adjudicaci\u00f3n": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-42055.pdf",
+    "company_name": {
+        "Bayer S.L. Biomedica Div. H.S.L. Codisa L. S.L. Cook Es. S.A. Dextro Med. S.L. Eurogine S.L. Intersurgical Es. S.L. Medtronic I. S.A. Prod. Med. Medela S.L. Roche D. S.L. Sum. Med. Sanitarios S.A. Teleflex M. S.A. Vialta S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 25/04/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 25/05/2017.\nc) Contratista: Bayer, S.L., Biomedica Div., H.S.L., Codisa L., S.L., Cook Es.,\nS.A., Dextro Med., S.L., Eurogine, S.L., Intersurgical Es., S.L., Medtronic I.,\nS.A., Prod. Med. Medela, S.L., Roche D., S.L., Sum. Med. Sanitarios, S.A.,\nTeleflex M., S.A., Vialta, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 520.774,75 euros. Importe\ntotal: 621.342,94 euros.\nMurcia, 27 de junio de 2017.- El Presidente de la Junta de Contrataci\u00f3n del\nServicio Murciano de Salud. D. Asensio L\u00f3pez Santiago.\n ID: A170050639-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "953095.11": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 815.691,00 euros. Importe total:\n953.095,11 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Servicio Murciano de Salud": "1. Entidad adjudicadora:\na) Organismo: Servicio Murciano de Salud.\nb) Dependencia que tramita el expediente: Servicio de Obras y Contrataci\u00f3n\n(Junta de Contrataci\u00f3n).\nc) N\u00famero de expediente: CS/9999/1100693348/16/ACPA.\nd)  Direcci\u00f3n  de  Internet  del  perfil  del  contratante:  www.carm.es\ncontratacionpublica."
+    },
+    "tipo": {
+        "Suministros": "2. Objeto del contrato:\na) Tipo: Suministros.\nb) Descripci\u00f3n: Material desechable de ginecolog\u00eda y pediatr\u00eda.\nd) CPV (Referencia de Nomenclatura): 33140000\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Boe.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 29/07/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 1.731.382 euros."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-41334.pdf",
+    "company_name": {
+        "Aldro Energ\u00eda y Soluciones S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 9 de junio de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 27 de junio de 2017.\nc) Contratista: Aldro Energ\u00eda y Soluciones, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 392.866,21 euros. Importe\ntotal: 475.368,12 euros.\nVillaquilambre, 28 de junio de 2017.- El Alcalde, D. Manuel Garc\u00eda Mart\u00ednez.\n ID: A170051070-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "475368.12": "42.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 392.866,21 euros. Importe total:\n475.368,12 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Ayuntamiento de Villaquilambre": "1. Entidad adjudicadora:\na) Organismo: Ayuntamiento de Villaquilambre.\nc) N\u00famero de expediente: 2017/1.\nd) Direcci\u00f3n de Internet del perfil del contratante: www.villaquilambre.es."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Energ\u00eda el\u00e9ctrica.\nd) CPV (Referencia de Nomenclatura): 09310000-5.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Diario Oficial de la Uni\u00f3n\nEuropea.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 22/02/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinario.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 785.732,"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-44248.pdf",
+    "company_name": {
+        "Auzo Lagun Sociedad Cooperativa": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 25 de mayo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 22 de junio de 2017.\nc) Contratista: Auzo Lagun, Sociedad Cooperativa.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 949.077,76 euros.\nHernani, 13 de julio de 2017.- El Presidente.\n ID: A170054857-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "958263.9": "2. Objeto del contrato:\na) Tipo: Servicios.\nb) Descripci\u00f3n: La gesti\u00f3n del servicio de cocina en la Residencia de Ancianos.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Diario Oficial de la Uni\u00f3n\nEuropea, Bolet\u00edn oficial del Estado y Bolet\u00edn Oficial de Gipuzkoa.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 11/02/2017, 11/02/2017 y 20/\n02/2017.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 958.263,90 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Hernaniko Udaleko Zerbitzu Sozialak": "1. Entidad adjudicadora:\na) Organismo: Hernaniko Udaleko Zerbitzu Sozialak."
+    },
+    "tipo": {
+        "Contrato de Servicios": "2. Objeto del contrato:\na) Tipo: Servicios.\nb) Descripci\u00f3n: La gesti\u00f3n del servicio de cocina en la Residencia de Ancianos.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Diario Oficial de la Uni\u00f3n\nEuropea, Bolet\u00edn oficial del Estado y Bolet\u00edn Oficial de Gipuzkoa.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 11/02/2017, 11/02/2017 y 20/\n02/2017.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 958.263,90 euros."
+    },
+    "tramitacion": {
+        "null": null
+    },
+    "procedimiento": {
+        "null": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-44209.pdf",
+    "company_name": {
+        "Se\u00f1alizaciones y Balizamientos la Castellana S.A": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: Lote 1, 2, 3 y 4: 18/04/2017.\nb) Fecha de formalizaci\u00f3n del contrato: Lote 1, 2 y 4: 2/06/2017; Lote 3: 6/6/\n2017.\nc) Contratista: Lote 1: Aceinsa Salamanca, S.A.; Lote 2: D\u00edez y Compa\u00f1\u00eda, S.A.;\nLote  3:  Se\u00f1alizaciones  y  Balizamientos  la  Castellana,  S.A.;  Lote  4:\nEstampaciones  Casado,  S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: Lote 1: 156.800,00; Lote 2:\n144.375,00; Lote 3: 153.500,00; Lote 4: 147.473,"
+    },
+    "amount": {
+        "1210000.0": "00.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 1.000.000,00 euros. Importe total:\n1.210.000,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Junta de Extremadura Consejer\u00eda de Econom\u00eda e Infraestructuras": "1. Entidad adjudicadora:\na)  Organismo:  Junta  de  Extremadura  Consejer\u00eda  de  Econom\u00eda  e\nInfraestructuras.\nb) Dependencia que tramita el expediente: Secretar\u00eda General.\nc) N\u00famero de expediente: SUM0717007.\nd) Direcci\u00f3n de Internet del perfil del contratante: https://contratacion.juntaex.es."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro de elementos de se\u00f1alizaci\u00f3n vertical, balizamiento y\ndefensa para las zonas de conservaci\u00f3n de Extremadura.\nc) Lote: 4 lotes.\nd) CPV (Referencia de Nomenclatura): 34928471-0; 34928410-5; 34928470-3.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 19/01/"
+    },
+    "tramitacion": {
+        "Anticipada": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Anticipada.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 2.000.000,"
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-42808.pdf",
+    "company_name": {
+        "Asociaci\u00f3n Provincial de Personas con Discapacidad Verdiblanca": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 30 de Mayo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 28 de Junio de 2017.\nc)  Contratista:  Asociaci\u00f3n  Provincial  de  Personas  con  Discapacidad\nVerdiblanca.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 448.706,38 euros. Importe\ntotal: 542.934,72 euros.\nMadrid, 4 de julio de 2017.- Por delegaci\u00f3n de competencias del Presidente de\nla Agencia Estatal Consejo Superior de Investigaciones Cient\u00edficas (Resoluci\u00f3n de\n20 de abril de 2017, BOE de 23 de mayo de 2017). El Secretario General, Alberto\nSereno \u00c1lvarez.\n ID: A170052651-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "684511.52": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 565.712,00 euros. Importe total:\n684.511,52 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Agencia Estatal Consejo Superior de Investigaciones Cient\u00edficas": "1. Entidad adjudicadora:\na) Organismo: Agencia Estatal Consejo Superior de Investigaciones Cient\u00edficas.\nb) Dependencia que tramita el expediente: Secretar\u00eda General Adjunta de Obras\ne Infraestructura.\nc) N\u00famero de expediente: 66/17.\nd)  Direcci\u00f3n  de  Internet  del  perfil  del  contratante:  https://\ncontrataciondelestado.es."
+    },
+    "tipo": {
+        "Servicio": "2. Objeto del contrato:\na) Tipo: Servicio.\nb) Descripci\u00f3n: Servicio antes indicado.\nd) CPV (Referencia de Nomenclatura): 90911200-8.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE y DOUE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 21/03/2017 09/03/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 1.244.566,40 euros."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-42106.pdf",
+    "company_name": {
+        "Serveis Integrals de Finques Urbanes S.L.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 19 de mayo de 2017.\nb) Fecha de formalizaci\u00f3n del contrato: 24 de mayo de 2017.\nc) Contratista: Serveis Integrals de Finques Urbanes, S.L.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: 137.493,98 euros. Importe\ntotal: 166.367,71 euros.\nTarragona, 29 de junio de 2017.- El Director Administrativo, Llu\u00eds Sol\u00e0\nCarandell.\n ID: A170051764-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "186340.0": "5. Presupuesto base de licitaci\u00f3n. Importe neto: 154.000 euros. Importe total:\n186.340 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Institut Catal\u00e0 d'Investigaci\u00f3 Qu\u00edmica": "1. Entidad adjudicadora:\na) Organismo: Institut Catal\u00e0 d'Investigaci\u00f3 Qu\u00edmica.\nb) Dependencia que tramita el expediente: \u00d3rgano de contrataci\u00f3n.\nc) N\u00famero de expediente: Exp 04/17.\nd)  Direcci\u00f3n  de  Internet  del  perfil  del  contratante:  https://\ncontractaciopublica.gencat.cat/ecofin_pscp/AppJava/\ncap.pscp?ambit=1&keyword=&reqCode=viewDetail&idCap=208066&departm\nent=13000&."
+    },
+    "tipo": {
+        "Servicio": "2. Objeto del contrato:\na) Tipo: Servicio.\nb) Descripci\u00f3n: Servicio de limpieza reservado a centros especiales de empleo.\nc) Lote: No.\nd) CPV (Referencia de Nomenclatura): 90910000\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: BOE.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 07/03/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2017.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinario.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 231.000 euros. IVA (%): 21. Importe total: 279.510\neuros."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-43957.pdf",
+    "company_name": {
+        "Suministros Puerto y Bah\u00eda S.A.": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 05/06/2017.\nb) Fecha de formalizaci\u00f3n del contrato: 15/06/2017.\nc) Contratista: Suministros Puerto y Bah\u00eda, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe total: 131.928,00 euros.\nLas Palmas de Gran Canaria, 29 de junio de 2017.- Directora provincial del\nInstituto Social de la Marina -Las Palmas.\n ID: A170054280-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "135000.0": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Contrato derivado de Acuerdo Marco.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 135.000,00 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Instituto Social de la Marina": "2017.\n1. Entidad adjudicadora:\na) Organismo: Instituto Social de la Marina.\nb) Dependencia que tramita el expediente: Direcci\u00f3n Provincial de Las Palmas.\nc) N\u00famero de expediente: 35/2017 MA 1006 (2956)."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: Suministro de v\u00edveres con destino al buque sanitario \"Esperanza\ndel Mar\".\nd) CPV (Referencia de Nomenclatura): 15000000\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial del Estado.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 07/06/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Contrato derivado de Acuerdo Marco.\n5. Presupuesto base de licitaci\u00f3n. Importe total: 135.000,00 euros."
+    },
+    "procedimiento": {
+        "Contrato derivado de Acuerdo Marco": ""
+    },
+    "model": {
+        "model": "llama3"
+    }
+},
+{
+    "pdf": "BOE-B-2017-42321.pdf",
+    "company_name": {
+        "Edp Energ\u00eda S.A": "6. Formalizaci\u00f3n del contrato:\na) Fecha de adjudicaci\u00f3n: 5 de abril de 2.017 y 11 de mayo de 2.017.\nb) Fecha de formalizaci\u00f3n del contrato: 7 de junio de 2.017.\nc) Contratista: Edp Energ\u00eda, S.A.\nd) Importe o canon de adjudicaci\u00f3n: Importe neto: Lote I Precio P1 Precio P2\nPrecio P3 8.65000 7.93250 6.09000 Lote III Precio P1 Precio P2 Precio P3 0\n13.42660 0 Lote IV Precio P1 Precio P2 Precio P3 12.05240 0 0 Lote V\nPrecio P1 Precio P2 Precio P3 13.68470 6.44800 0. Importe total: Lote I\nPrecio P1 Precio P2 Precio P3 8.65000 7.93250 6.09000 Lote III Precio P1\nPrecio P2 Precio P3 0 13.42660 0 Lote IV Precio P1 Precio P2 Precio P3\n12.05240 0 0 Lote V Precio P1 Precio P2 Precio P3 13.68470 6.44800 0 A\ndichos precios, referidos al componente kw/hora, hay que a\u00f1adir las tarifas\nreguladas, impuesto el\u00e9ctrico, alquiler de equipo y el 21% de IVA.\ne) Ventajas de la oferta adjudicataria: Vista la ponderaci\u00f3n de los criterios que\nrigen el expediente de referencia resulta ser la oferta econ\u00f3micamente m\u00e1s\nventajosa.\nCeheg\u00edn (Murcia), 16 de junio de 2017.- Alcalde-Presidente.\n ID: A170047849-1\nhttp://www.boe.es BOLET\u00cdN OFICIAL DEL ESTADO D.L.: M-1/1958 - ISSN: 0212-033X"
+    },
+    "amount": {
+        "597717.66": "08.\n5. Presupuesto base de licitaci\u00f3n. Importe neto: 493981.54 euros. Importe total:\n597717.66 euros."
+    },
+    "currency": {
+        "euros": ""
+    },
+    "adjudicadora": {
+        "Excmo. Ayuntamiento de Ceheg\u00edn (Murcia)": "1. Entidad adjudicadora:\na) Organismo: Excmo. Ayuntamiento de Ceheg\u00edn (Murcia).\nb) Dependencia que tramita el expediente: Departamento de Contrataci\u00f3n\nAdministrativa.\nc) N\u00famero de expediente: 11/2016.\nd) Direcci\u00f3n de Internet del perfil del contratante: http://www.cehegin.es."
+    },
+    "tipo": {
+        "Suministro": "2. Objeto del contrato:\na) Tipo: Suministro.\nb) Descripci\u00f3n: El suministro de energ\u00eda el\u00e9ctrica, y su acceso a redes, con\ndestino al alumbrado p\u00fablico, edificios municipales y equipamientos del\nAyuntamiento de Ceheg\u00edn.\nc) Lote: 7.\nd) CPV (Referencia de Nomenclatura): 09310000.\nf) Sistema din\u00e1mico de adquisiciones: No.\ng) Medio de publicaci\u00f3n del anuncio de licitaci\u00f3n: Bolet\u00edn Oficial de la Regi\u00f3n de\nMurcia, Bolet\u00edn Oficial del Estado y Diario Oficial de la Uni\u00f3n Europea.\nh) Fecha de publicaci\u00f3n del anuncio de licitaci\u00f3n: 10/01/2017, 10/01/2017 y 22/\n12/"
+    },
+    "tramitacion": {
+        "Ordinaria": "2016.\n3. Tramitaci\u00f3n y procedimiento:\na) Tramitaci\u00f3n: Ordinaria.\nb) Procedimiento: Abierto.\n4. Valor estimado del contrato: 987963."
+    },
+    "procedimiento": {
+        "Abierto": ""
+    },
+    "model": {
+        "model": "phi3"
+    }
+},
