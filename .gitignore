@@ -52,3 +52,7 @@ build/
 
 # Ignorar archivos generados por herramientas de documentación
 docs/_build/
+
+images/
+
+xmlxml_departamento_id_fecha.json
